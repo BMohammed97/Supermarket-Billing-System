@@ -1,0 +1,628 @@
+
+_________________________________________________
+	Hamza Belhadj
+B1001		01 MAY 2026
+
+5      El Widian Olive Oil  900.00 4500.00
+1      Fleurial Oil 1L      250.00 250.00
+3      Test Dish Liquid     170.00 510.00
+4      Ami Chips             90.00 360.00
+1      Candia Milk 1L       135.00 135.00
+1      Palmary Chocolate    140.00 140.00
+4      Le Chat Liquid Soap  130.00 520.00
+
+Total -------->>>>	6415.00
+_________________________________________________
+	Hamza Belhadj
+B1002		01 MAY 2026
+
+4      Sim Flour 1kg         85.00 340.00
+5      Rouiba Juice 1L      190.00 950.00
+5      El Benna Tea 100g    150.00 750.00
+5      Facto Coffee 250g    320.00 1600.00
+
+Total -------->>>>	3640.00
+_________________________________________________
+	Said Oudina
+B1003		01 MAY 2026
+
+1      Tartino Cheese Spread 280.00 280.00
+3      N'goussa Dates 1kg   450.00 1350.00
+3      Marissa Harissa       80.00 240.00
+4      Bref Bleach 1L       110.00 440.00
+2      Benamor Couscous 1kg 165.00 330.00
+3      Ifri Water 1.5L       40.00 120.00
+2      Bimo Biscuits         65.00 130.00
+2      Mina Salt 1kg         35.00  70.00
+
+Total -------->>>>	2960.00
+_________________________________________________
+	Hamza Belhadj
+B1004		01 MAY 2026
+
+1      N'goussa Dates 1kg   450.00 450.00
+3      Ami Chips             90.00 270.00
+3      Amor Benamor Pasta    75.00 225.00
+2      Benamor Couscous 1kg 165.00 330.00
+5      Faderco Cotex        220.00 1100.00
+
+Total -------->>>>	2375.00
+_________________________________________________
+	Redouane Khelifi
+B1005		01 MAY 2026
+
+4      Ifri Water 1.5L       40.00 160.00
+2      Fleurial Oil 1L      250.00 500.00
+4      Marissa Harissa       80.00 320.00
+5      Le Chat Liquid Soap  130.00 650.00
+1      Mina Salt 1kg         35.00  35.00
+2      Bimo Biscuits         65.00 130.00
+2      Bref Bleach 1L       110.00 220.00
+4      Jumbo Tomato Paste   120.00 480.00
+2      Ami Chips             90.00 180.00
+3      Candia Milk 1L       135.00 405.00
+
+Total -------->>>>	3080.00
+_________________________________________________
+	Said Oudina
+B1006		02 MAY 2026
+
+5      Bref Bleach 1L       110.00 550.00
+2      Awane Shampoo        290.00 580.00
+2      Bonal Tuna Can       210.00 420.00
+3      Isis Powder Detergent 380.00 1140.00
+5      Rouiba Juice 1L      190.00 950.00
+3      Mina Salt 1kg         35.00 105.00
+4      Benamor Couscous 1kg 165.00 660.00
+5      Tartino Cheese Spread 280.00 1400.00
+2      Test Dish Liquid     170.00 340.00
+
+Total -------->>>>	6145.00
+_________________________________________________
+	Rachid Bouras
+B1007		02 MAY 2026
+
+2      Le Chat Liquid Soap  130.00 260.00
+2      Soummam Yogurt        45.00  90.00
+3      Sim Flour 1kg         85.00 255.00
+3      Mama Semolina 1kg    110.00 330.00
+
+Total -------->>>>	935.00
+_________________________________________________
+	Kamel Benmeidi
+B1008		02 MAY 2026
+
+1      Ifri Water 1.5L       40.00  40.00
+4      Marissa Harissa       80.00 320.00
+4      Fleurial Oil 1L      250.00 1000.00
+4      Cevital Sugar 1kg    105.00 420.00
+1      Sim Flour 1kg         85.00  85.00
+1      Bref Bleach 1L       110.00 110.00
+1      Mama Semolina 1kg    110.00 110.00
+5      Nadhif Soap Bar       70.00 350.00
+1      Candia Milk 1L       135.00 135.00
+
+Total -------->>>>	2570.00
+_________________________________________________
+	Mourad Meziane
+B1009		02 MAY 2026
+
+5      Bonal Tuna Can       210.00 1050.00
+3      Facto Coffee 250g    320.00 960.00
+4      Le Chat Liquid Soap  130.00 520.00
+3      El Widian Olive Oil  900.00 2700.00
+1      Soummam Yogurt        45.00  45.00
+2      Bimo Biscuits         65.00 130.00
+
+Total -------->>>>	5405.00
+_________________________________________________
+	Lamine Chemmam
+B1010		02 MAY 2026
+
+4      Awane Shampoo        290.00 1160.00
+1      Mina Salt 1kg         35.00  35.00
+5      Mama Semolina 1kg    110.00 550.00
+5      Tartino Cheese Spread 280.00 1400.00
+2      Soummam Yogurt        45.00  90.00
+1      Nadhif Soap Bar       70.00  70.00
+4      Ami Chips             90.00 360.00
+4      Bimo Biscuits         65.00 260.00
+
+Total -------->>>>	3925.00
+_________________________________________________
+	Redouane Khelifi
+B1011		03 MAY 2026
+
+5      Ami Chips             90.00 450.00
+2      Bref Bleach 1L       110.00 220.00
+2      El Benna Tea 100g    150.00 300.00
+4      Facto Coffee 250g    320.00 1280.00
+4      Jumbo Tomato Paste   120.00 480.00
+3      Sim Flour 1kg         85.00 255.00
+5      Soummam Yogurt        45.00 225.00
+1      Marissa Harissa       80.00  80.00
+4      Tartino Cheese Spread 280.00 1120.00
+
+Total -------->>>>	4410.00
+_________________________________________________
+	Aissa Djaballah
+B1012		03 MAY 2026
+
+2      Ifri Water 1.5L       40.00  80.00
+3      Bimo Biscuits         65.00 195.00
+4      Ami Chips             90.00 360.00
+3      Hamoud Boualem 1L    110.00 330.00
+
+Total -------->>>>	965.00
+_________________________________________________
+	Hamza Belhadj
+B1013		03 MAY 2026
+
+1      Faderco Cotex        220.00 220.00
+2      Candia Milk 1L       135.00 270.00
+1      Sim Flour 1kg         85.00  85.00
+4      Facto Coffee 250g    320.00 1280.00
+2      Bref Bleach 1L       110.00 220.00
+
+Total -------->>>>	2075.00
+_________________________________________________
+	Mourad Meziane
+B1014		03 MAY 2026
+
+5      Hamoud Boualem 1L    110.00 550.00
+1      Ifri Water 1.5L       40.00  40.00
+2      N'goussa Dates 1kg   450.00 900.00
+2      Candia Milk 1L       135.00 270.00
+2      Jumbo Tomato Paste   120.00 240.00
+5      Bref Bleach 1L       110.00 550.00
+4      Facto Coffee 250g    320.00 1280.00
+1      Marissa Harissa       80.00  80.00
+
+Total -------->>>>	3910.00
+_________________________________________________
+	Mourad Meziane
+B1015		03 MAY 2026
+
+2      Awane Shampoo        290.00 580.00
+4      Bimo Biscuits         65.00 260.00
+5      Marissa Harissa       80.00 400.00
+3      Test Dish Liquid     170.00 510.00
+2      Tartino Cheese Spread 280.00 560.00
+1      Isis Powder Detergent 380.00 380.00
+1      Palmary Chocolate    140.00 140.00
+3      Facto Coffee 250g    320.00 960.00
+4      Amor Benamor Pasta    75.00 300.00
+
+Total -------->>>>	4090.00
+_________________________________________________
+	Rachid Bouras
+B1016		04 MAY 2026
+
+5      Le Chat Liquid Soap  130.00 650.00
+5      Rouiba Juice 1L      190.00 950.00
+4      N'goussa Dates 1kg   450.00 1800.00
+4      Cevital Sugar 1kg    105.00 420.00
+4      Ifri Water 1.5L       40.00 160.00
+2      El Widian Olive Oil  900.00 1800.00
+5      Bimo Biscuits         65.00 325.00
+
+Total -------->>>>	6105.00
+_________________________________________________
+	Rachid Bouras
+B1017		04 MAY 2026
+
+4      Palmary Chocolate    140.00 560.00
+1      Jumbo Tomato Paste   120.00 120.00
+4      Fleurial Oil 1L      250.00 1000.00
+1      Sim Flour 1kg         85.00  85.00
+3      Amor Benamor Pasta    75.00 225.00
+2      Bref Bleach 1L       110.00 220.00
+1      Bonal Tuna Can       210.00 210.00
+
+Total -------->>>>	2420.00
+_________________________________________________
+	Lamine Chemmam
+B1018		04 MAY 2026
+
+4      Rouiba Juice 1L      190.00 760.00
+4      Bimo Biscuits         65.00 260.00
+3      Hamoud Boualem 1L    110.00 330.00
+5      Nadhif Soap Bar       70.00 350.00
+
+Total -------->>>>	1700.00
+_________________________________________________
+	Kamel Benmeidi
+B1019		04 MAY 2026
+
+4      Amor Benamor Pasta    75.00 300.00
+2      Benamor Couscous 1kg 165.00 330.00
+5      Sim Flour 1kg         85.00 425.00
+4      Test Dish Liquid     170.00 680.00
+2      Mina Salt 1kg         35.00  70.00
+4      Bimo Biscuits         65.00 260.00
+4      Rouiba Juice 1L      190.00 760.00
+3      Ifri Water 1.5L       40.00 120.00
+3      Le Chat Liquid Soap  130.00 390.00
+
+Total -------->>>>	3335.00
+_________________________________________________
+	Fares Bouaza
+B1020		04 MAY 2026
+
+4      Fleurial Oil 1L      250.00 1000.00
+2      Facto Coffee 250g    320.00 640.00
+1      Mama Semolina 1kg    110.00 110.00
+5      El Widian Olive Oil  900.00 4500.00
+4      Soummam Yogurt        45.00 180.00
+5      Candia Milk 1L       135.00 675.00
+5      Le Chat Liquid Soap  130.00 650.00
+1      Bref Bleach 1L       110.00 110.00
+
+Total -------->>>>	7865.00
+_________________________________________________
+	Aissa Djaballah
+B1021		05 MAY 2026
+
+3      El Widian Olive Oil  900.00 2700.00
+1      Ami Chips             90.00  90.00
+5      Awane Shampoo        290.00 1450.00
+3      Amor Benamor Pasta    75.00 225.00
+
+Total -------->>>>	4465.00
+_________________________________________________
+	Fares Bouaza
+B1022		05 MAY 2026
+
+1      Cevital Sugar 1kg    105.00 105.00
+5      Bref Bleach 1L       110.00 550.00
+5      Le Chat Liquid Soap  130.00 650.00
+3      Jumbo Tomato Paste   120.00 360.00
+3      Marissa Harissa       80.00 240.00
+
+Total -------->>>>	1905.00
+_________________________________________________
+	Said Oudina
+B1023		05 MAY 2026
+
+1      Test Dish Liquid     170.00 170.00
+5      Awane Shampoo        290.00 1450.00
+3      Benamor Couscous 1kg 165.00 495.00
+2      Soummam Yogurt        45.00  90.00
+1      Jumbo Tomato Paste   120.00 120.00
+3      Ifri Water 1.5L       40.00 120.00
+4      Palmary Chocolate    140.00 560.00
+
+Total -------->>>>	3005.00
+_________________________________________________
+	Aissa Djaballah
+B1024		05 MAY 2026
+
+1      Mama Semolina 1kg    110.00 110.00
+1      Soummam Yogurt        45.00  45.00
+3      Test Dish Liquid     170.00 510.00
+5      Faderco Cotex        220.00 1100.00
+1      Bimo Biscuits         65.00  65.00
+5      El Benna Tea 100g    150.00 750.00
+3      Candia Milk 1L       135.00 405.00
+1      Le Chat Liquid Soap  130.00 130.00
+5      Tartino Cheese Spread 280.00 1400.00
+
+Total -------->>>>	4515.00
+_________________________________________________
+	Hamza Belhadj
+B1025		05 MAY 2026
+
+2      Mina Salt 1kg         35.00  70.00
+5      Ami Chips             90.00 450.00
+1      Benamor Couscous 1kg 165.00 165.00
+4      Test Dish Liquid     170.00 680.00
+4      El Widian Olive Oil  900.00 3600.00
+3      Tartino Cheese Spread 280.00 840.00
+5      Marissa Harissa       80.00 400.00
+
+Total -------->>>>	6205.00
+_________________________________________________
+	Mourad Meziane
+B1026		06 MAY 2026
+
+2      Palmary Chocolate    140.00 280.00
+5      Facto Coffee 250g    320.00 1600.00
+2      Fleurial Oil 1L      250.00 500.00
+2      Candia Milk 1L       135.00 270.00
+4      Le Chat Liquid Soap  130.00 520.00
+4      Test Dish Liquid     170.00 680.00
+2      Awane Shampoo        290.00 580.00
+5      Jumbo Tomato Paste   120.00 600.00
+3      Benamor Couscous 1kg 165.00 495.00
+5      Ifri Water 1.5L       40.00 200.00
+
+Total -------->>>>	5725.00
+_________________________________________________
+	Mourad Meziane
+B1027		06 MAY 2026
+
+1      Amor Benamor Pasta    75.00  75.00
+1      Test Dish Liquid     170.00 170.00
+3      Hamoud Boualem 1L    110.00 330.00
+2      Rouiba Juice 1L      190.00 380.00
+5      Palmary Chocolate    140.00 700.00
+1      Awane Shampoo        290.00 290.00
+2      Bonal Tuna Can       210.00 420.00
+5      Marissa Harissa       80.00 400.00
+
+Total -------->>>>	2765.00
+_________________________________________________
+	Kamel Benmeidi
+B1028		06 MAY 2026
+
+4      Tartino Cheese Spread 280.00 1120.00
+1      Mama Semolina 1kg    110.00 110.00
+5      Mina Salt 1kg         35.00 175.00
+5      Facto Coffee 250g    320.00 1600.00
+2      Marissa Harissa       80.00 160.00
+
+Total -------->>>>	3165.00
+_________________________________________________
+	Fares Bouaza
+B1029		06 MAY 2026
+
+1      Benamor Couscous 1kg 165.00 165.00
+2      Ami Chips             90.00 180.00
+2      Bimo Biscuits         65.00 130.00
+2      Bref Bleach 1L       110.00 220.00
+2      Marissa Harissa       80.00 160.00
+
+Total -------->>>>	855.00
+_________________________________________________
+	Mourad Meziane
+B1030		06 MAY 2026
+
+1      El Benna Tea 100g    150.00 150.00
+2      El Widian Olive Oil  900.00 1800.00
+4      Bref Bleach 1L       110.00 440.00
+1      Test Dish Liquid     170.00 170.00
+
+Total -------->>>>	2560.00
+_________________________________________________
+	Aissa Djaballah
+B1031		07 MAY 2026
+
+1      Le Chat Liquid Soap  130.00 130.00
+2      Tartino Cheese Spread 280.00 560.00
+2      Candia Milk 1L       135.00 270.00
+2      Jumbo Tomato Paste   120.00 240.00
+4      Cevital Sugar 1kg    105.00 420.00
+2      N'goussa Dates 1kg   450.00 900.00
+
+Total -------->>>>	2520.00
+_________________________________________________
+	Lamine Chemmam
+B1032		07 MAY 2026
+
+2      Tartino Cheese Spread 280.00 560.00
+5      Cevital Sugar 1kg    105.00 525.00
+5      Candia Milk 1L       135.00 675.00
+4      Awane Shampoo        290.00 1160.00
+5      Sim Flour 1kg         85.00 425.00
+2      Benamor Couscous 1kg 165.00 330.00
+2      Bimo Biscuits         65.00 130.00
+4      Ifri Water 1.5L       40.00 160.00
+5      Fleurial Oil 1L      250.00 1250.00
+2      Ami Chips             90.00 180.00
+
+Total -------->>>>	5395.00
+_________________________________________________
+	Redouane Khelifi
+B1033		07 MAY 2026
+
+5      Hamoud Boualem 1L    110.00 550.00
+2      Le Chat Liquid Soap  130.00 260.00
+4      Bonal Tuna Can       210.00 840.00
+1      Benamor Couscous 1kg 165.00 165.00
+3      Faderco Cotex        220.00 660.00
+5      Bimo Biscuits         65.00 325.00
+4      Ifri Water 1.5L       40.00 160.00
+4      Jumbo Tomato Paste   120.00 480.00
+1      Candia Milk 1L       135.00 135.00
+
+Total -------->>>>	3575.00
+_________________________________________________
+	Mourad Meziane
+B1034		07 MAY 2026
+
+3      Rouiba Juice 1L      190.00 570.00
+5      N'goussa Dates 1kg   450.00 2250.00
+3      Mina Salt 1kg         35.00 105.00
+4      Isis Powder Detergent 380.00 1520.00
+5      Tartino Cheese Spread 280.00 1400.00
+5      Nadhif Soap Bar       70.00 350.00
+
+Total -------->>>>	6195.00
+_________________________________________________
+	Said Oudina
+B1035		08 MAY 2026
+
+4      Nadhif Soap Bar       70.00 280.00
+4      Cevital Sugar 1kg    105.00 420.00
+3      Soummam Yogurt        45.00 135.00
+3      Amor Benamor Pasta    75.00 225.00
+3      El Widian Olive Oil  900.00 2700.00
+5      Mina Salt 1kg         35.00 175.00
+4      Tartino Cheese Spread 280.00 1120.00
+3      Bimo Biscuits         65.00 195.00
+1      Rouiba Juice 1L      190.00 190.00
+
+Total -------->>>>	5440.00
+_________________________________________________
+	Fares Bouaza
+B1036		08 MAY 2026
+
+4      Test Dish Liquid     170.00 680.00
+2      El Widian Olive Oil  900.00 1800.00
+1      El Benna Tea 100g    150.00 150.00
+2      Rouiba Juice 1L      190.00 380.00
+3      Sim Flour 1kg         85.00 255.00
+2      Awane Shampoo        290.00 580.00
+2      Amor Benamor Pasta    75.00 150.00
+5      Bonal Tuna Can       210.00 1050.00
+3      Faderco Cotex        220.00 660.00
+
+Total -------->>>>	5705.00
+_________________________________________________
+	Fares Bouaza
+B1037		08 MAY 2026
+
+5      Faderco Cotex        220.00 1100.00
+2      Facto Coffee 250g    320.00 640.00
+2      Awane Shampoo        290.00 580.00
+2      El Benna Tea 100g    150.00 300.00
+
+Total -------->>>>	2620.00
+_________________________________________________
+	Redouane Khelifi
+B1038		08 MAY 2026
+
+5      Hamoud Boualem 1L    110.00 550.00
+1      Faderco Cotex        220.00 220.00
+1      Mama Semolina 1kg    110.00 110.00
+3      Bimo Biscuits         65.00 195.00
+2      Sim Flour 1kg         85.00 170.00
+5      Cevital Sugar 1kg    105.00 525.00
+
+Total -------->>>>	1770.00
+_________________________________________________
+	Rachid Bouras
+B1039		08 MAY 2026
+
+3      Candia Milk 1L       135.00 405.00
+3      Ifri Water 1.5L       40.00 120.00
+3      Mina Salt 1kg         35.00 105.00
+4      Amor Benamor Pasta    75.00 300.00
+2      Tartino Cheese Spread 280.00 560.00
+5      Sim Flour 1kg         85.00 425.00
+5      Bonal Tuna Can       210.00 1050.00
+4      Jumbo Tomato Paste   120.00 480.00
+4      Benamor Couscous 1kg 165.00 660.00
+3      Palmary Chocolate    140.00 420.00
+
+Total -------->>>>	4525.00
+_________________________________________________
+	Kamel Benmeidi
+B1040		09 MAY 2026
+
+3      Jumbo Tomato Paste   120.00 360.00
+3      Facto Coffee 250g    320.00 960.00
+3      Hamoud Boualem 1L    110.00 330.00
+1      Fleurial Oil 1L      250.00 250.00
+4      Marissa Harissa       80.00 320.00
+
+Total -------->>>>	2220.00
+_________________________________________________
+	Tarek Zeghdoud
+B1041		09 MAY 2026
+
+4      Palmary Chocolate    140.00 560.00
+4      Ami Chips             90.00 360.00
+5      Mina Salt 1kg         35.00 175.00
+4      Bonal Tuna Can       210.00 840.00
+1      Marissa Harissa       80.00  80.00
+1      Benamor Couscous 1kg 165.00 165.00
+
+Total -------->>>>	2180.00
+_________________________________________________
+	Redouane Khelifi
+B1042		09 MAY 2026
+
+4      Nadhif Soap Bar       70.00 280.00
+4      Faderco Cotex        220.00 880.00
+3      Soummam Yogurt        45.00 135.00
+2      Hamoud Boualem 1L    110.00 220.00
+4      Bonal Tuna Can       210.00 840.00
+3      Bimo Biscuits         65.00 195.00
+2      Mama Semolina 1kg    110.00 220.00
+5      Fleurial Oil 1L      250.00 1250.00
+5      Le Chat Liquid Soap  130.00 650.00
+
+Total -------->>>>	4670.00
+_________________________________________________
+	Tarek Zeghdoud
+B1043		09 MAY 2026
+
+3      Hamoud Boualem 1L    110.00 330.00
+2      El Widian Olive Oil  900.00 1800.00
+1      El Benna Tea 100g    150.00 150.00
+4      Benamor Couscous 1kg 165.00 660.00
+2      Ami Chips             90.00 180.00
+4      Mama Semolina 1kg    110.00 440.00
+3      Isis Powder Detergent 380.00 1140.00
+2      Bimo Biscuits         65.00 130.00
+
+Total -------->>>>	4830.00
+_________________________________________________
+	Rachid Bouras
+B1044		09 MAY 2026
+
+3      Marissa Harissa       80.00 240.00
+1      Cevital Sugar 1kg    105.00 105.00
+1      Jumbo Tomato Paste   120.00 120.00
+4      Tartino Cheese Spread 280.00 1120.00
+5      Facto Coffee 250g    320.00 1600.00
+3      Mama Semolina 1kg    110.00 330.00
+2      Candia Milk 1L       135.00 270.00
+
+Total -------->>>>	3785.00
+_________________________________________________
+	Mourad Meziane
+B1045		10 MAY 2026
+
+5      El Widian Olive Oil  900.00 4500.00
+2      El Benna Tea 100g    150.00 300.00
+4      Tartino Cheese Spread 280.00 1120.00
+1      Bimo Biscuits         65.00  65.00
+3      Sim Flour 1kg         85.00 255.00
+2      Soummam Yogurt        45.00  90.00
+
+Total -------->>>>	6330.00
+_________________________________________________
+	Kamel Benmeidi
+B1046		10 MAY 2026
+
+5      Faderco Cotex        220.00 1100.00
+4      Bref Bleach 1L       110.00 440.00
+5      N'goussa Dates 1kg   450.00 2250.00
+1      Mina Salt 1kg         35.00  35.00
+2      Sim Flour 1kg         85.00 170.00
+
+Total -------->>>>	3995.00
+_________________________________________________
+	Tarek Zeghdoud
+B1047		10 MAY 2026
+
+2      Marissa Harissa       80.00 160.00
+1      Bref Bleach 1L       110.00 110.00
+2      Mama Semolina 1kg    110.00 220.00
+3      Hamoud Boualem 1L    110.00 330.00
+4      El Benna Tea 100g    150.00 600.00
+2      Benamor Couscous 1kg 165.00 330.00
+3      Isis Powder Detergent 380.00 1140.00
+4      Rouiba Juice 1L      190.00 760.00
+1      Le Chat Liquid Soap  130.00 130.00
+1      Candia Milk 1L       135.00 135.00
+
+Total -------->>>>	3915.00
+_________________________________________________
+	Mourad Meziane
+B1048		10 MAY 2026
+
+3      Tartino Cheese Spread 280.00 840.00
+4      Facto Coffee 250g    320.00 1280.00
+1      Ami Chips             90.00  90.00
+4      Soummam Yogurt        45.00 180.00
+3      Candia Milk 1L       135.00 405.00
+3      El Benna Tea 100g    150.00 450.00
+5      Benamor Couscous 1kg 165.00 825.00
+2      Fleurial Oil 1L      250.00 500.00
+5      Mama Semolina 1kg    110.00 550.00
+1      Rouiba Juice 1L      190.00 190.00
+
+Total -------->>>>	5310.00
